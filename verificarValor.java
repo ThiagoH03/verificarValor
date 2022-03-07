@@ -14,7 +14,7 @@ public class verificarValor {
        if(valor1 > valor2){
            System.out.println("\nO primeiro valor é maior: "+valor1+" > "+valor2 +".");
        }else{
-        System.out.println("\nO segundo valor é maior: "+valor2+" > "+valor1 +".");
+        System.out.println("\nO segundo valor é maior: "+valor1+" < "+valor2 +".");
        }
     }
 }
