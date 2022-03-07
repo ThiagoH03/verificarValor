@@ -8,8 +8,6 @@ public class verificarValor {
        System.out.println("\nInsira o segundo valor: ");
        int valor2 = inputValores.nextInt();
 
-       System.out.println("\n");
-
        //A estrutura de condição pode ser feito da seguinte maneira:
        System.out.println(valor1 > valor2 ? + valor1 + " é maior." : + valor2 + " é maior.");
 
